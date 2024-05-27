@@ -1,1 +1,1 @@
-# McDonalds-case-study
+A case study on Fast Food market segmentation analysis, focusing on understanding consumer perceptions of McDonald's brand image. The case study illustrates the process of identifying distinct market segments based on brand perceptions and highlights the importance of tailoring marketing strategies to different segments. This case study can be a valuable reference for businesses looking to analyze market segmentation and enhance their brand positioning strategies.
